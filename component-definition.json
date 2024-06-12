@@ -137,7 +137,7 @@
           }
         },
         {
-          "title": "CTA Teaser",
+          "title": "CTATeaser",
           "id": "ctateaser",
           "plugins": {
             "xwalk": {
