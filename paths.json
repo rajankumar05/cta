@@ -1,6 +1,12 @@
 {
   "mappings": [
     "/content/cta/:/",
-    "/content/cta/configuration:/.helix/config.json"
+    "/content/cta/configuration:/.helix/config.json",
+    "/content/cta/metadata:/metadata.json",
+    "/content/cta/redirects:/redirects.json",
+    "/content/cta/headers:/headers.json",
+  ],
+  "includes": [
+    "/content/cta/"
   ]
 }
